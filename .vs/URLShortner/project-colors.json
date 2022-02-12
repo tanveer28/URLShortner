@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f037f060-105a-43c5-a33b-8399a529cf30": {
+      "ProjectGuid": "f037f060-105a-43c5-a33b-8399a529cf30",
+      "DisplayName": "URLShortner",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
