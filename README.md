@@ -4,6 +4,7 @@ You will need to run the sln in visual studio.
 This is the server that the front end will talk to.
 
 For the front end, navigate to .\URLShortner\url-shortner
+
 Then run 'npm install' to install the necessay node modules
 
 Then run 'npm start' to start the front end
